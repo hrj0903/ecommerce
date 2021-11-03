@@ -11,8 +11,8 @@ const Container = styled.div`
   font-weight: 500;
 `;
 
-const Anouncement = () => {
+const Announcement = () => {
   return <Container>10만원 이상 구매시 무료배송</Container>;
 };
 
-export default Anouncement;
+export default Announcement;

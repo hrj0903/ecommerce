@@ -86,7 +86,7 @@ const Footer = () => {
   return (
     <Container>
       <Left>
-        <Logo>스토어.</Logo>
+        <Logo>스토어</Logo>
         <Desc>다양한 물건들을 구매할수 있는 스토어</Desc>
         <SocialContainer>
           <SocialIcon color="3B5999">
